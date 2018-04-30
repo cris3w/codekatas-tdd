@@ -1,4 +1,4 @@
-package com.patterns.behavioral.command.example;
+package com.examples.behavioral.command.example;
 
 public class ClearTextCommand extends AbstractCommand {
 

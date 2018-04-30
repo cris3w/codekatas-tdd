@@ -1,4 +1,4 @@
-package com.patterns.behavioral.observer;
+package com.examples.behavioral.observer;
 
 public class Lighting implements AlarmListener {
 

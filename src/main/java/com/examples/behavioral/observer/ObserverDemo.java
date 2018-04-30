@@ -1,4 +1,4 @@
-package com.patterns.behavioral.observer;
+package com.examples.behavioral.observer;
 
 // https://sourcemaking.com/design_patterns/observer/java/2
 

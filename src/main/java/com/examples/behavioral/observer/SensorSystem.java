@@ -1,4 +1,4 @@
-package com.patterns.behavioral.observer;
+package com.examples.behavioral.observer;
 
 import java.util.Enumeration;
 import java.util.Vector;

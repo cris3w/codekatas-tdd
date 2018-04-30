@@ -1,4 +1,4 @@
-package com.patterns.behavioral.observer;
+package com.examples.behavioral.observer;
 
 public class Surveillance extends CheckList implements AlarmListener {
 

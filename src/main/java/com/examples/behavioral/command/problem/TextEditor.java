@@ -1,4 +1,4 @@
-package com.patterns.behavioral.command.problem;
+package com.examples.behavioral.command.problem;
 
 public class TextEditor {
 
