@@ -3,4 +3,6 @@ GLOSSARY
 
 BEHAVIORAL:
 
--Observer: A way of notifying change to a number of classes.
+-Observer: Allows us to notify change to a number of classes.
+
+-Strategy: Allows us to change the behavior of an algorithm at runtime.
