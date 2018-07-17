@@ -1,4 +1,4 @@
-package com.examples.creational.builder;
+package com.examples.creational.builder.PizzaBuilderExample;
 
 // Concrete Builder
 public class SpicyPizzaBuilder extends PizzaBuilder {

@@ -1,8 +1,8 @@
-package com.examples.creational.builder;
+package com.examples.creational.builder.PizzaBuilderExample;
 
 // https://sourcemaking.com/design_patterns/builder/java/2
 
-public class BuilderDemo {
+public class PizzaBuilderDemo {
 
     public static void main(String[] args) {
         Waiter waiter = new Waiter();

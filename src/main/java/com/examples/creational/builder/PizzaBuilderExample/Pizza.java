@@ -1,4 +1,4 @@
-package com.examples.creational.builder;
+package com.examples.creational.builder.PizzaBuilderExample;
 
 // Product
 public class Pizza {

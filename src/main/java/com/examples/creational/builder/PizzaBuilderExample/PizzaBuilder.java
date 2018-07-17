@@ -1,4 +1,4 @@
-package com.examples.creational.builder;
+package com.examples.creational.builder.PizzaBuilderExample;
 
 // Abstract Builder
 abstract public class PizzaBuilder {
